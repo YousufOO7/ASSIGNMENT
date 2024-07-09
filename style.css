@@ -222,7 +222,8 @@ body{
     gap: 150px;
 }
 /* image-three-titles style */
-.image-three-title{
+
+.image-three-title {
     color: rgba(13, 19, 33, 0.7);
     font-family: "Azeret Mono", monospace;
     font-size: 20px; 
@@ -252,3 +253,48 @@ body{
     height: 100%;
 }
 /* web development container end here */
+
+/* My Inspiration section start here */
+
+/* My Inspiration titles test here */
+.my-inspiration-container{
+    width: 1140px;
+    height: 775px;
+    margin: 90px auto;
+}
+.my-inspiration-content{
+    width: 852px;
+    height: 113px;
+    margin: 0 auto;
+    text-align: center;
+}
+/* titles style share */
+.my-inspiration-title{
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono";
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    margin-bottom: 24px;
+}
+.my-inspiration-text{
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 26px;    
+}
+/* My Inspiration titles end here */
+
+/* My Inspiration image start here */
+.my-inspiration-video{
+    width: 1076px;
+    height: 550px;
+    margin: 50px 30px 30px 30px;
+}
+.my-inspiration-video iframe{
+    width: 100%;
+    height: 100%;
+}
+/*  My Inspiration section end here */
+
