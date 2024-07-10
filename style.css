@@ -88,6 +88,8 @@ body{
     width: 946px;
     height: 336px;
     margin: 0 auto;
+    border-radius: 16px;
+    background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%);
 }
 /* web devo titles style */
 .web-devo-titles{
@@ -520,7 +522,6 @@ body{
     height: 313px;
     margin: 0 auto;
     margin-top: 40px;
-    margin-bottom: 40px;
     background-image: url('./assets/handshake.jpg');
     background-position: center;
     background-repeat: no-repeat;
@@ -582,3 +583,37 @@ body{
     margin-top: 10px;
 }
 /* I Need Support section end here */
+
+/* footer section start here */
+.footer-container{
+    max-width: 1350px;
+    height: 100px;
+    margin-top: 80px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.03);
+}
+.footer-content{
+    width: 1100px;
+    height: 36px;
+    padding-top: 25px;
+    margin: 30px auto;
+    display: flex;
+    justify-content: space-between;
+}
+.text-left{
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 23px;
+    margin: 5px 0;
+}
+.footer-image{
+    width: 36px;
+    height: 36px;
+}
+.footer-image img{
+    width: 100%;
+    height: 100%;
+}
+/* footer section end here */
