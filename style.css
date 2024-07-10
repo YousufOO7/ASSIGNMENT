@@ -298,3 +298,117 @@ body{
 }
 /*  My Inspiration section end here */
 
+/* My Current Target section start here */
+.my-current-target-container{
+    width: 1140px;
+    height: 460px;
+    margin: 0 auto;
+}
+/* share titles */
+.title{
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono";
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+.text{
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono";
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    margin: 0 244px 0 244px;
+}
+/* my current target content section */
+.my-current-target-content{
+    width: 1140px;
+    height: 299px;
+    margin: 0 auto;
+    margin-top: 47px;
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+}
+/* content 1,2,3 style */
+.content-one{
+    width: 364px;
+    height: 299px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}
+.content-two{
+    width: 364px;
+    height: 299px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+.content-three{
+    width: 364px;
+    height: 299px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+.html{
+    width: 284px;
+    height: 219px;
+    margin: 40px;
+}
+.html img{
+    width: 39.68px;
+    height: 56px;
+}
+.html-text{
+    width: 284px;
+    height: 96px;
+    margin-top: 24px;
+}
+.css{
+    width: 284px;
+    height: 219px;
+    margin: 40px;
+}
+.css img{
+    width: 56px;
+    height: 56px;
+    margin-bottom: 24px;
+}
+.javascript{
+    width: 284px;
+    height: 219px;
+    margin: 40px;
+}
+.javascript img{
+    width: 56px;
+    height: 56px;
+    margin-bottom: 24px;
+}
+/* image titles style */
+.image-title{
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono";
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+}
+.image-text{
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono";
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.image-btn{
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono";
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 19px;
+    border: none;
+    text-decoration: underline;
+}
+/*  My Current Target section end here */
+
