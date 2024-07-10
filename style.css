@@ -8,6 +8,34 @@ body{
     font-family: "Azeret Mono", monospace;
 }
 /* header style start here */
+/* nav style */
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+h3{
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono";
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 33px;
+    margin: 35px 0 25px 140px;
+}
+.nav-btn{
+    width: 228px;
+    height: 58px;
+    color: rgb(13, 19, 33);
+    font-family: "Azeret Mono";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 23px;
+    margin: 35px 160px 25px 0;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    border-radius: 8px;
+    opacity: 0.8;
+    border: none;
+}
 .header-container{
     max-width: 1350px;
     height: 631px;
@@ -571,7 +599,7 @@ body{
     padding: 19px 20px 19px 20px;
     font-family: "Azeret Mono";
     font-size: 10px;
-    margin-top: 10px;
+    margin-top: 15px;
 }
 .support-btn{
     width: 120px;
@@ -580,7 +608,8 @@ body{
     background: rgb(255, 255, 255);
     font-size: 16px;
     font-family: "Azeret Mono";
-    margin-top: 10px;
+    margin-top: 15px;
+    border: none;
 }
 /* I Need Support section end here */
 
